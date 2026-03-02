@@ -1,80 +1,69 @@
-🎨 The Art Space – Online Art Gallery App
+# 🎨 The Art Space – Online Art Gallery App
 
-The Art Space is an Android application built using Kotlin and Jetpack Compose.
-It works like a mini online art gallery that showcases famous artworks from around the world, displaying:
+The Art Space is an Android application built using **Kotlin** and **Jetpack Compose**.  
+It works like a mini online art gallery that showcases **famous artworks from around the world**.
 
-🖼️ Artwork Image
+The app displays:
 
-👩‍🎨 Artist Name
+- 🖼️ Artwork Image  
+- 👩‍🎨 Artist Name  
+- 📅 Year of Creation  
+- ✨ Interesting Fact about the artwork  
 
-📅 Year of Creation
+Users can browse through masterpieces using interactive navigation buttons.
 
-✨ Interesting Fact about the artwork
+---
 
-Users can browse through different masterpieces interactively.
+## 📸 App Preview
+<img width="376" height="803" alt="Screenshot 2026-03-02 111028" src="https://github.com/user-attachments/assets/957316ad-1341-4ff4-b8fe-3a577124a5a9" />
+<img width="387" height="800" alt="Screenshot 2026-03-02 111105" src="https://github.com/user-attachments/assets/39785f6a-e472-49f1-af96-24ab411bb1c1" />
 
-🌍 Featured Artworks
+---
 
-The app includes globally renowned artworks such as:
+## 📱 Features
 
-Mona Lisa – Leonardo da Vinci (1503)
+- Modern UI built with Jetpack Compose  
+- Displays artwork image, artist name, and year  
+- Shows an interesting fact for each artwork  
+- Next / Previous navigation buttons  
+- State management in Compose  
+- Clean and responsive layout  
 
-The Starry Night – Vincent van Gogh (1889)
+---
 
-The Persistence of Memory – Salvador Dalí (1931)
+## 🛠️ Tech Stack
 
-Girl with a Pearl Earring – Johannes Vermeer (1665)
+- Kotlin  
+- Jetpack Compose  
+- Material Design 3  
+- Android Studio  
 
-Each artwork includes a short fact to make the gallery experience more engaging and educational.
+---
 
-📱 Features
+## 🚀 How to Run the Project
 
-Clean, modern UI built with Jetpack Compose
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Kottaryananya/The-Art-Space.git
+   ```
+2. Open the project in Android Studio  
+3. Sync Gradle files  
+4. Run on an Emulator or Physical Android Device  
 
-Artwork image display
+---
 
-Artist name and year shown clearly
-
-Educational fun fact for each artwork
-
-Next / Previous navigation buttons
-
-State management using Compose
-
-🛠️ Tech Stack
-
-Kotlin
-
-Jetpack Compose
-
-Material Design 3
-
-Android Studio
-
-🚀 How to Run
-
-Clone the repository:
-
-git clone https://github.com/Kottaryananya/The-Art-Space.git
-
-Open the project in Android Studio
-
-Sync Gradle files
-
-Run on Emulator or Physical Device
-
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
 This project demonstrates:
 
-Composable functions
+- Composable functions in Jetpack Compose  
+- State handling and recomposition  
+- Layout design using Column, Row, and Modifier  
+- Handling button click events  
+- Displaying image resources in Android  
 
-State handling in Jetpack Compose
+---
 
-UI layout design (Column, Row, Modifier)
+## 👩‍💻 Author
 
-Button click handling
-
-Displaying image resources
-
-Creating an interactive gallery-style app
+**Ananya Kottary**
